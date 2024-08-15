@@ -1,0 +1,15 @@
+Rencana Satu Tahun
+
+- Belajar Fond End
+  - HTML
+  - CSS
+  - Framework Bootsrap
+  - Framework tailwindCSS
+  - JavaScript
+- Belajar Back End
+  - JS
+    *Framework JavaScript
+  - ReactJs
+    *Laravel
+
+Cukup Sekian dan Terima Gaji
