@@ -8,6 +8,8 @@ Rencana Satu Tahun
   - JavaScript
 - Belajar Back End
   - JS
+    *Framework JavaScript
   - ReactJs
+    *Laravel
 
 Cukup Sekian dan Terima Gaji
